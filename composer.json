@@ -1,0 +1,15 @@
+{
+    "name": "alquemie/use-google-libraries",
+    "description": "WordPress MU Plugin to replace local JS libraries with ones hosted by Google",
+    "type": "wordpress-muplugin",
+    "require": {
+        "php": ">=5.6"
+    },
+    "license": "GPLv3",
+    "authors": [
+        {
+            "name": "Chris Carrel",
+            "email": "support@alquemie.net"
+        }
+    ]
+}
